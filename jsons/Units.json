@@ -2,11 +2,11 @@
 	{
 		"name": "Gene",
 		"unitType": "Bearer",
-		"movement": 5,
-		"strength": 500,
+		"movement": 3,
+		"strength": 150,
 		"cost": 1,
-		"uniques": ["[+100]% Strength <when defending>","Can move after attacking",
-			"Ignores terrain cost","Unbuildable <for [AI player] Civilizations>"]
+		"uniques": ["[+100]% Strength <when defending>","Can see invisible [All] units","Can pass through impassable tiles","Can move after attacking",
+			"Ignores terrain cost","Limited to [1] per Civilization","","[+1] Sight","Unbuildable <for [AI player] Civilizations>"]
 		"attackSound": "gene"
 	}
 ]
