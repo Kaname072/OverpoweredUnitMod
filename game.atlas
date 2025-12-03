@@ -4,7 +4,7 @@ size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/God Hand
+UnitPromotionIcons/God Hand
   rotate: false
   xy: 200, 0
   size: 200, 200
