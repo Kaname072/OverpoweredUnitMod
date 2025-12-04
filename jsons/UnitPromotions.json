@@ -1,0 +1,9 @@
+[
+  {
+    "name": "God Hand",
+    "uniques": ["[3] additional attacks per turn"],
+		"unitTypes": ["Bearer"],
+		"innerColor": [195,53,43],
+		"outerColor": [253,236,234],
+  }
+]
